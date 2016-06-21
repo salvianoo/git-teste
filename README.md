@@ -1,3 +1,3 @@
 # git-teste
 
-Alterações em Staging
+Alterações feitas no branch master
